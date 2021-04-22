@@ -1,3 +1,8 @@
+---
+disqus: RCASD
+---
+
+
 <style>
 
 html, body, .ui-content {
@@ -95,7 +100,7 @@ a,
 
 There are a few things to test out, 
 - [ ] Integration with github
-- [ ] How to make it a notebook with many tabs
+- [x] How to make it a notebook with many tabs (it's called a book)
 - [ ] If we should start adding our content here
 - [ ] How to include comments here (as in for people to comment on things themselves, like with disqus)
 
@@ -111,3 +116,6 @@ Also I put it in dark mode)
 This is a section divider
 ----
 [Another section](/j-reklnWRimeIz-vII1XWw)
+
+[adding disqus comments](/5p1AwhASTXKfGe7ppkD8cA)
+
