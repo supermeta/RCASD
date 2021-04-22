@@ -91,31 +91,23 @@ a,
 }
 
 </style>
+This is my test with HackMD
+===
+This is a section divider
+----
+- [Introduction](/j-reklnWRimeIz-vII1XWw)
 
+Reference Documents
+---
+- [to-do list](/BhM8XI1uTPmfO28Ucm_kew)
+- [Things to look into](/GmIaFwCYQiqthuhnfDaR4w)
+- [how to add disqus comments](/Thq_vbfBTYWxYBzkxd3Fiw)
 
-# This is my test with HackMD#
 
 [![hackmd-github-sync-badge](https://hackmd.io/mRY5kBvuQMK1BE0AlQs9UA/badge)](https://hackmd.io/mRY5kBvuQMK1BE0AlQs9UA)
-
-
-There are a few things to test out, 
-- [ ] Integration with github
-- [x] How to make it a notebook with many tabs (it's called a book)
-- [ ] If we should start adding our content here
-- [ ] How to include comments here (as in for people to comment on things themselves, like with disqus)
-
-
-##    Could be interesting:
-- to share our research report in this way
-- See if there needs to be an integration with jupyter noteboook
 
 [comment]: <> (You can put comments inside of the file without people having to see it
 Also I put it in dark mode)
 
 
-This is a section divider
-----
-[Another section](/j-reklnWRimeIz-vII1XWw)
-
-[adding disqus comments](/5p1AwhASTXKfGe7ppkD8cA)
 
