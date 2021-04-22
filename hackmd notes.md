@@ -97,7 +97,7 @@ There are a few things to test out,
 - [ ] Integration with github
 - [ ] How to make it a notebook with many tabs
 - [ ] If we should start adding our content here
-- [ ] How to include comments here
+- [ ] How to include comments here (as in for people to comment on things themselves, like with disqus)
 
 
 ##    Could be interesting:
@@ -110,3 +110,4 @@ Also I put it in dark mode)
 
 This is a section divider
 ----
+[Another section](/j-reklnWRimeIz-vII1XWw)
